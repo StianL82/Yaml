@@ -1,0 +1,15 @@
+{
+  "name": "yaml",
+  "version": "1.0.0",
+  "description": "YAML",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
